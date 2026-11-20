@@ -50,7 +50,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2026.100.0.1115",
+    "IDEVersion":"2026.100.0.1199",
   },
   "name":"Steamworks",
   "resources":[
@@ -110,8 +110,8 @@
     {"id":{"name":"obj_steam_networking_lobby_chat","path":"objects/obj_steam_networking_lobby_chat/obj_steam_networking_lobby_chat.yy",},},
     {"id":{"name":"obj_steam_networking_lobby_set_owner","path":"objects/obj_steam_networking_lobby_set_owner/obj_steam_networking_lobby_set_owner.yy",},},
     {"id":{"name":"obj_steam_networking_lobby","path":"objects/obj_steam_networking_lobby/obj_steam_networking_lobby.yy",},},
-    {"id":{"name":"obj_steam_networking_messages","path":"objects/obj_steam_networking_messages/obj_steam_networking_messages.yy",},},
     {"id":{"name":"obj_steam_networking_messages_no_alloc","path":"objects/obj_steam_networking_messages_no_alloc/obj_steam_networking_messages_no_alloc.yy",},},
+    {"id":{"name":"obj_steam_networking_messages","path":"objects/obj_steam_networking_messages/obj_steam_networking_messages.yy",},},
     {"id":{"name":"obj_steam_networking_overlay","path":"objects/obj_steam_networking_overlay/obj_steam_networking_overlay.yy",},},
     {"id":{"name":"obj_steam_networking_sockets_client","path":"objects/obj_steam_networking_sockets_client/obj_steam_networking_sockets_client.yy",},},
     {"id":{"name":"obj_steam_networking_sockets_local_test","path":"objects/obj_steam_networking_sockets_local_test/obj_steam_networking_sockets_local_test.yy",},},
@@ -162,8 +162,8 @@
     {"id":{"name":"rm_steam_main","path":"rooms/rm_steam_main/rm_steam_main.yy",},},
     {"id":{"name":"rm_steam_networking_lobby","path":"rooms/rm_steam_networking_lobby/rm_steam_networking_lobby.yy",},},
     {"id":{"name":"rm_steam_networking_matchmaking","path":"rooms/rm_steam_networking_matchmaking/rm_steam_networking_matchmaking.yy",},},
-    {"id":{"name":"rm_steam_networking_messages","path":"rooms/rm_steam_networking_messages/rm_steam_networking_messages.yy",},},
     {"id":{"name":"rm_steam_networking_messages_no_alloc","path":"rooms/rm_steam_networking_messages_no_alloc/rm_steam_networking_messages_no_alloc.yy",},},
+    {"id":{"name":"rm_steam_networking_messages","path":"rooms/rm_steam_networking_messages/rm_steam_networking_messages.yy",},},
     {"id":{"name":"rm_steam_networking_sockets_client","path":"rooms/rm_steam_networking_sockets_client/rm_steam_networking_sockets_client.yy",},},
     {"id":{"name":"rm_steam_networking_sockets_local_test","path":"rooms/rm_steam_networking_sockets_local_test/rm_steam_networking_sockets_local_test.yy",},},
     {"id":{"name":"rm_steam_networking_sockets_server","path":"rooms/rm_steam_networking_sockets_server/rm_steam_networking_sockets_server.yy",},},
